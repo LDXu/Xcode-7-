@@ -1,0 +1,2 @@
+替换（注意备份原文件）：
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/Project Templates/iOS/Application/Cocoa Touch Application Base.xctemplate/TemplateInfo.plist
